@@ -1,0 +1,44 @@
+[
+  {
+    "id": 227424,
+    "name": "Italy vs Germany",
+    "tournament_id": 59162,
+    "tournament_name": "FIVB World Championship Women, Final Round",
+    "tournament_importance": 90,
+    "season_id": 59078,
+    "season_name": "FiVB World Championship Women 2025",
+    "status": {
+      "type": "live",
+      "reason": "1st set"
+    },
+    "status_type": "live",
+    "home_team_id": 45589,
+    "home_team_name": "Italy",
+    "home_team_hash_image": "8362bfee5d0040330759574e8fe36785c08fa1531ddd95255d4186b8cc6446b6",
+    "away_team_id": 45644,
+    "away_team_name": "Germany",
+    "away_team_hash_image": "1e8df5ebf7be85810372ea9ab52719f387a868c742318df5b61a0ecacd2c8b02",
+    "home_team_score": {
+      "current": 0,
+      "display": 0,
+      "period_1": 18
+    },
+    "away_team_score": {
+      "current": 0,
+      "display": 0,
+      "period_1": 8
+    },
+    "times": {
+      "specific_start_time": "2025-08-30T09:59:54+00:00"
+    },
+    "start_time": "2025-08-30T10:00:00+00:00",
+    "duration": 9000,
+    "class_id": 444,
+    "class_name": "International",
+    "class_hash_image": "c3faa78e801a954c273be232a807fcd733628359c521a1b1ff03eb52d8d2f9b5",
+    "league_id": 3679,
+    "league_name": "World Championship Women",
+    "league_hash_image": "9d507b0a15272a005eeca8bdb92937847ac07e9be7562922ac3d5342e43cf4c3"
+  }
+]
+  
